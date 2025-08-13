@@ -1,7 +1,7 @@
  .u-section-1 {
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("images/background.jpg");
+  background-image: url("background.jpg");
   background-size: cover;
 }
 
@@ -170,7 +170,7 @@
     margin-right: 14px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/90688c1142b4c2f3cb2d59b8792b53651af36c4ebbbb4da18819307e354e32cca207dc0b8e46e10cb0f1c9fb06ff40e7b753d0be88f72d21f96a3a_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('90688c1142b4c2f3cb2d59b8792b53651af36c4ebbbb4da18819307e354e32cca207dc0b8e46e10cb0f1c9fb06ff40e7b753d0be88f72d21f96a3a_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -245,7 +245,7 @@
     margin-top: 39px;
   }
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('images/90688c1142b4c2f3cb2d59b8792b53651af36c4ebbbb4da18819307e354e32cca207dc0b8e46e10cb0f1c9fb06ff40e7b753d0be88f72d21f96a3a_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('90688c1142b4c2f3cb2d59b8792b53651af36c4ebbbb4da18819307e354e32cca207dc0b8e46e10cb0f1c9fb06ff40e7b753d0be88f72d21f96a3a_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -295,7 +295,7 @@
     min-height: 1280px;
   }
 } .u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('images/90688c1142b4c2f3cb2d59b8792b53651af36c4ebbbb4da18819307e354e32cca207dc0b8e46e10cb0f1c9fb06ff40e7b753d0be88f72d21f96a3a_1280.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('90688c1142b4c2f3cb2d59b8792b53651af36c4ebbbb4da18819307e354e32cca207dc0b8e46e10cb0f1c9fb06ff40e7b753d0be88f72d21f96a3a_1280.jpg');
   background-position: 50% 50%;
 }
 
